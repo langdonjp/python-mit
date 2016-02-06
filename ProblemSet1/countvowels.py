@@ -6,7 +6,7 @@ Write an iterative program that counts up the number of vowels contained in the 
 Number of vowels: 5"""
 
 count = 0
-
+ 
 vowels = 'aeiou'
 
 for i in s:
